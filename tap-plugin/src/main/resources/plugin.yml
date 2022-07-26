@@ -1,6 +1,6 @@
 name: ${pluginName}
 version: ${version}
-main: ${group}.${packageName}.plugin.${pluginName}Plugin
+main: io.github.monun.tap.plugin.TapPlugin
 api-version: 1.18
 libraries:
   - org.jetbrains.kotlin:kotlin-stdlib:1.6.21
